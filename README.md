@@ -35,4 +35,4 @@ THEN I am able to successfully create, update, and delete data in my database✅
 
 LINK TO REPO>>>>> 'https://github.com/tylerjwait/CH-13-ECOM'
 
-LINK TO WALKTHROUGH VIDEO>>>>> 'https://www.youtube.com/watch?v=OJ0WKYUNRPA'
+LINK TO WALKTHROUGH VIDEO>>>>> 'https://youtu.be/OJ0WKYUNRPA' 
